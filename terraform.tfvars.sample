@@ -1,0 +1,5 @@
+root_cert_path="</local-path/to/ca-cert-folder>"
+state_sa_name="<stroage account for tf state>"
+access_key="<access_key for storage account>"
+container_name="<storage container name>"
+prefix="<prefix for resources to create in Azure>"
